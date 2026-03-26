@@ -19,7 +19,7 @@ Anyone who uses sprites for their UI elements.
     
 ## If someone at Unity reads this:
 Please buy the person responsible a big bag of coffee, they are obviously in severe caffein withdrawl.
-Also, you could fix any of the 4 items above and the entire problem would disappear.
+Also, you could fix any of the 5 items above and the entire problem would disappear.
     
 ## Note:
 This uss contains a bunch of selectors that for all I've seen do nothing at all. I'm including them because some joker on the Unity forum insisted that they would work. They don't. But here they are, just so I don't have to hear that again.
